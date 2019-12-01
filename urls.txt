@@ -1,0 +1,8 @@
+https://www.yahoo.com/news/world/rss
+https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en&x=1571747254.2933
+http://feeds.bbci.co.uk/news/world/rss.xml
+https://www.theguardian.com/world/rss
+http://www.aljazeera.com/xml/rss/all.xml
+https://www.buzzfeed.com/world.xml
+http://feeds.washingtonpost.com/rss/world
+https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml
