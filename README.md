@@ -1,5 +1,6 @@
 # Information Retrieval and Classification for a Vertical Search Engine
-## Steps Taken
+# Steps Taken
+
 An automated crawler developed to crawl the features of the articles which went through text preprocessing methods like indexing, lowercase transformation, lemmatisation, stop words and puntuation removal.
 The crawled articles went through a rank retrieval process for the query processing part of the project. 
 Lastly, a news classifier was developed as a machine learning component of the project in order to tag the quried article by its category.
